@@ -1,4 +1,4 @@
-package co.edu.uniandes.dse.parcial1.services;
+/*package co.edu.uniandes.dse.parcial1.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -25,4 +25,4 @@ public class MercanciaUbicacionBodegaService {
     public MercanciaEntity assignubicacionbodega(Long mercanciaID, Long ubicacionbodegaID) throws IllegalOperationException{
         
     }
-}
+} */
